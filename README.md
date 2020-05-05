@@ -1,8 +1,10 @@
-# Disclaimer
+# README FROM ORIGINAL CREATOR
+
+### Disclaimer
 
 I'm not working on this anymore. Feel free to do with it as you will!
 
-# ox
+### ox
 Ox is a tiny, opinionated-yet-open 2D game framework for the web. It offers a rigid structure that facilitates development. Its goals are to be easy to learn, modular and lightweight.
 
 It weights at ~3.8kbytes gzipped and minified, meaning it can be easily used for competitions like 13kJS and for mobile games. 
@@ -31,7 +33,7 @@ Upon cloning this repo (or downloading it), you should have a basic skeleton for
   - entities
   - scenes
 
-## Getting started:
+### Getting started:
 
 [Download the framework](https://github.com/ThaisRobba/ox/archive/v0.2.1.zip) with the basic template, then cd to the folder you extracted and run `npm install`. Then just run `npm start`. Now just start developing! :D
 
