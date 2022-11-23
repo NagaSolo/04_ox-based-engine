@@ -23,7 +23,7 @@
     "author": "Otto Robba",
     "license": "MIT",
     "devDependencies": {
-        "browser-sync": "^2.6.1",
+        "browser-sync": "^2.27.10",
         "browserify": "^9.0.8",
         "fs": "0.0.2",
         "uglify-js": "^2.4.20",
